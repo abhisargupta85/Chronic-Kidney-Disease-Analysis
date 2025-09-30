@@ -57,7 +57,7 @@ The data used for this project is publicly available and was collected from mult
  - **Data Source:** Chronic Kidney Disease Dataset, UCI Machine Learning Repository
  - **Original Link:** http://archive.ics.uci.edu/dataset/336/chronic+kidney+disease
  - **Original Format:** .arff (used in the reading step).
- -** Number of Instances:** 400
+ - **Number of Instances:** 400
  - **Number of Attributes (Features):** 24 + 1 Class/Label
 
 ### Project Delimitations
@@ -109,4 +109,4 @@ The high accuracy and successful external validation (testing against new, synth
 
  3. Open the main Jupyter Notebook (Chronic Kidney Disease Project.ipynb) and run all cells sequentially.
 
-(Note: The notebook also includes an interactive final step where a user can input 10 feature values to get a real-time prediction.)
+(**Note:** The notebook also includes an interactive final step where a user can input 10 feature values to get a real-time prediction.)
