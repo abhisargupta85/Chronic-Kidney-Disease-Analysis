@@ -109,4 +109,7 @@ The high accuracy and successful external validation (testing against new, synth
 
  3. Open the main Jupyter Notebook (Chronic Kidney Disease Project.ipynb) and run all cells sequentially.
 
-(**Note:** The notebook also includes an interactive final step where a user can input 10 feature values to get a real-time prediction.)
+(**Note:** The notebook also includes an interactive final step where a user can input 10 feature values to get a real-time prediction.
+
+This project uses publicly available data for educational and analytical purposes. No personal data is stored or processed beyond what is publicly accessible.
+)
